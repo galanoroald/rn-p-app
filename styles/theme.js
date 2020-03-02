@@ -1,0 +1,17 @@
+export const THEME = {
+    name: 'default',
+    background: '#fae3d9',
+    header_background: '#ffb6b9',
+    footer_background: '#8ac6d1',
+    text: "#8ac6d1",
+    header_text: '#fae3d9',
+    footer_text: '#bbded6',
+    button: '#bbded6',
+    active: '#fae3d9',
+    inactive: '#bbded6',
+    neutral: '#fae3d9',
+    button_positive: '#bbded6',
+    button_negative: '#8ac6d1',
+    border_color: '#ffb6b9',
+    icon: '#fae3d9',
+}
